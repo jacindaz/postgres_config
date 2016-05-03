@@ -1,2 +1,2 @@
 ## Postgres 9.5 config
-tuning personal postgres 9.5 config file, to maximize performance
+By default, the postgresql.conf file is tuned for crash recovery. However locally, that is not as necessary, and I'd rather optimize for performance.
